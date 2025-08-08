@@ -5,10 +5,11 @@
 </head>
 <body>
   <h1>{{ page.title }}</h1>
-  <p><strong>Category:</strong> <a href="/categories/{{ page.category | downcase | replace: ' ', '-' }}/">{{ page.category }}</a></p>
+  {% assign cat = page.path | split: "/" | slice: 1, 1 | first %}
+  <p><strong>Category:</strong> <a href="/categories/{{ cat | downcase | replace: ' ', '-' }}/">{{ cat }}</a></p>
   <div>
     {{ content }}
   </div>
-  <a href="/categories/{{ page.category | downcase | replace: ' ', '-' }}/">Back to category</a>
+  <a href="/categories/{{ cat | downcase | replace: ' ', '-' }}/">Back to category</a>
 </body>
 </html>
