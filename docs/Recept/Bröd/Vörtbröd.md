@@ -1,19 +1,21 @@
 ---
 title: Vörtbröd
-updated: 2023-12-13T09:27:15
+updated: 2025-09-13T21:35:00
 created: 2022-12-20T07:35:38
 ---
 
-**Ingredienser**
-**Fördeg**
-110 g julmust (20\*) (till fördeg)
-120 g grahamsmjöl (till fördeg)
-3 g torrjäst (till fördeg)
+# Vörtbröd
 
-**Deg**
-230 g julmust (20\*)
+## Ingredienser
+### Fördeg
+- 110 g julmust (rumstemperatur)
+- 120 g grahamsmjöl
+- 3 g torrjäst
+
+### Deg
+230 g julmust (rumstemperatur)
 7 g torrjäst  
-1 dl vört (alt. reducera (sjud) ner 4 dl porter och 1 dl julmust tills totalt 1 dl återstår)  
+1 dl vört (alt. reducera (sjud) ner 4 dl porter och 1 dl julmust tills totalt 1 dl återstår)
 2 msk honung  
 1 dl mörk brödsirap  
 150 g grovt rågmjöl
@@ -27,35 +29,16 @@ created: 2022-12-20T07:35:38
 Ca 1 dl vetemjöl (till utbakning)
 Mjölk och grädde till pensling
 
-**Howto**  
-**Fördeg**  
-Blanda ihop och låt stå täckt, kylskåpskallt, i 8-12 timmar.  
+## Hur man gör  
+### Fördeg
+Blanda ihop och låt stå täckt i kylskåpet i 8-12 timmar.  
 
-**Deg**  
-Blanda i resten och låt stå täckt, kylskåpskallt, i 24-48 timmar.  
+### Deg
+Knåda ihop resten och låt stå täckt i kylskåpet i 24-48 timmar.  
 
-**Utbakning**
-Rulla degen i mjöl så att den inte fastnar.  
-**  
-Vila  
-**Låt vila 60 min innan ugn.
-Pensla på en blandning av mjölk och grädde.
-
-**Ugn  
-**230 grader ej varmluft, sänk temperaturen när brödet går in.  
-180 grader 60 minuter**  
-**Färdig när brödet är 9\* innetemperatur**  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-**
-
+### Utbakning
+1. Rulla degen i mjöl så att den inte fastnar.
+2. Låt vila ca 60 min i rumstemperatur.
+3. Pensla på en blandning av mjölk och grädde.
+4. Grädda i 230* över och undervärme, sänk temperaturen när brödet går in till 180 grader. Grädda i ca 60 minuter.
+5. Brödet är färdigt när innertemperaturen har nått 98*.

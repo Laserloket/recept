@@ -1,26 +1,18 @@
   - Recept
-    - Barnmat
-      - [Selmas_bechamelsås](/Recept/Barnmat/Selmas_bechamelsås.md)
-      - [Selmas_grytbas](/Recept/Barnmat/Selmas_grytbas.md)
-      - [Selmas_köttfärs](/Recept/Barnmat/Selmas_köttfärs.md)
-      - [Selmas_tomatbas](/Recept/Barnmat/Selmas_tomatbas.md)
-      - [Selmas_vällingpankakor](/Recept/Barnmat/Selmas_vällingpankakor.md)
     - Bröd
       - [Baguette](/Recept/Bröd/Baguette.md)
       - [Brioche](/Recept/Bröd/Brioche.md)
-      - [Gamla_bröd_recept](/Recept/Bröd/Gamla_bröd_recept.md)
-      - [Havre_och_potatisbröd](/Recept/Bröd/Havre_och_potatisbröd.md)
+      - [Gamla brödrecept](/Recept/Bröd/Gamla%20brödrecept.md)
+      - [Havre och potatisbröd](/Recept/Bröd/Havre%20och%20potatisbröd.md)
       - [Hönökaka](/Recept/Bröd/Hönökaka.md)
-      - [Lchf_pizzabotten](/Recept/Bröd/Lchf_pizzabotten.md)
-      - [Lchf_pizzabotten_2](/Recept/Bröd/Lchf_pizzabotten_2.md)
+      - [Lchf pizzabotten](/Recept/Bröd/Lchf%20pizzabotten.md)
       - [Lepinja](/Recept/Bröd/Lepinja.md)
-      - [Pizza](/Recept/Bröd/Pizza.md)
+      - [Pizzabröd](/Recept/Bröd/Pizzabröd.md)
       - [Rågbröd](/Recept/Bröd/Rågbröd.md)
-      - [Rågsiktsbröd_från_örgryte](/Recept/Bröd/Rågsiktsbröd_från_örgryte.md)
       - [Tortillabröd](/Recept/Bröd/Tortillabröd.md)
-      - [Tunnbröd](/Recept/Bröd/Tunnbröd.md)
-      - [Tunt_fröbröd](/Recept/Bröd/Tunt_fröbröd.md)
-      - [Vanligt_bröd](/Recept/Bröd/Vanligt_bröd.md)
+      - [Tunnbröd som man steker](/Recept/Bröd/Tunnbröd%20som%20man%20steker.md)
+      - [Tunt fröbröd](/Recept/Bröd/Tunt%20fröbröd.md)
+      - [Vanligt bröd](/Recept/Bröd/Vanligt%20bröd.md)
       - [Vörtbröd](/Recept/Bröd/Vörtbröd.md)
     - Curry
       - [Chana_saag_curry](/Recept/Curry/Chana_saag_curry.md)
@@ -134,6 +126,12 @@
     - Sallad
       - [Bönsallad](/Recept/Sallad/Bönsallad.md)
       - [Äggsallad](/Recept/Sallad/Äggsallad.md)
+    - Selmas barnmat
+      - [Selmas bechamelsås](/Recept/Selmas%20barnmat/Selmas%20bechamelsås.md)
+      - [Selmas grytbas](/Recept/Selmas%20barnmat/Selmas%20grytbas.md)
+      - [Selmas köttfärs](/Recept/Selmas%20barnmat/Selmas%20köttfärs.md)
+      - [Selmas tomatbas](/Recept/Selmas%20barnmat/Selmas%20tomatbas.md)
+      - [Selmas vällingpankakor](/Recept/Selmas%20barnmat/Selmas%20vällingpankakor.md)
     - Soppa
       - [Blomkålssoppa](/Recept/Soppa/Blomkålssoppa.md)
       - [Enkel_thaisoppa](/Recept/Soppa/Enkel_thaisoppa.md)
