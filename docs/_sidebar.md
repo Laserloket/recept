@@ -45,12 +45,12 @@
       - [Granola](/Recept/Frukost/Granola.md)
       - [Krämig äggröra](/Recept/Frukost/Krämig%20äggröra.md)
       - [Pannkakor](/Recept/Frukost/Pannkakor.md)
+      - [Powergröt](/Recept/Frukost/Powergröt.md)
       - [Powerpannkakor](/Recept/Frukost/Powerpannkakor.md)
       - [Sesamgranola](/Recept/Frukost/Sesamgranola.md)
       - [Smoothie bra för magen](/Recept/Frukost/Smoothie%20bra%20för%20magen.md)
       - [Smoothie frukost](/Recept/Frukost/Smoothie%20frukost.md)
       - [Smoothie jordgubb kiwi](/Recept/Frukost/Smoothie%20jordgubb%20kiwi.md)
-      - [Supergröt](/Recept/Frukost/Supergröt.md)
       - [Övernattningshavre](/Recept/Frukost/Övernattningshavre.md)
     - Grill
       - [Ananas_marinad](/Recept/Grill/Ananas_marinad.md)
@@ -126,7 +126,7 @@
       - [Selmas grytbas](/Recept/Selmas%20barnmat/Selmas%20grytbas.md)
       - [Selmas köttfärs](/Recept/Selmas%20barnmat/Selmas%20köttfärs.md)
       - [Selmas tomatbas](/Recept/Selmas%20barnmat/Selmas%20tomatbas.md)
-      - [Selmas vällingpankakor](/Recept/Selmas%20barnmat/Selmas%20vällingpankakor.md)
+      - [Selmas vällingpannkakor](/Recept/Selmas%20barnmat/Selmas%20vällingpannkakor.md)
     - Soppa
       - [Blomkålssoppa](/Recept/Soppa/Blomkålssoppa.md)
       - [Enkel_thaisoppa](/Recept/Soppa/Enkel_thaisoppa.md)

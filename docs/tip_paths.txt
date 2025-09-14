@@ -120,8 +120,8 @@
 #/Recept/Köttfärs/Kebab_köttfärs
 #/Recept/Selmas%20barnmat/Selmas%20bechamelsås
 #/Recept/Selmas%20barnmat/Selmas%20tomatbas
-#/Recept/Selmas%20barnmat/Selmas%20vällingpankakor
 #/Recept/Selmas%20barnmat/Selmas%20grytbas
+#/Recept/Selmas%20barnmat/Selmas%20vällingpannkakor
 #/Recept/Selmas%20barnmat/Selmas%20köttfärs
 #/Recept/Vegetariskt/Halloumibiffar
 #/Recept/Vegetariskt/Omelette_i_ugn

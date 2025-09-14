@@ -17,7 +17,9 @@
   <style>
     :root {
       --base-font-size: 12px;
-      --theme-color   : rgb(121, 28, 28);
+      --theme-color   : #CD3E01;
+      --heading-color: #CD3E01;
+      --heading-h1-color: #CD3E01;
     }
   </style>
 </head>
@@ -61,10 +63,13 @@
                 Dagens tips:
                 <a href="${targetPath}">${tipName}</a>
               `;
+              tipDiv.style.color = '#CD3E01';
               tipDiv.style.padding = '10px';
-              tipDiv.style.background = '#f9f9f9';
-              tipDiv.style.border = '0';
+              tipDiv.style.paddingBottom = '15px';
+              tipDiv.style.background = '#FFF';
+              tipDiv.style.borderBottom = '1px solid #EAEAEA';
               tipDiv.style.margin = '10px 0';
+              tipDiv.style.marginTop = '-55px';
 
               // Insert at the top of the main content
               const main = document.querySelector('.content');
