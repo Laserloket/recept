@@ -1,10 +1,10 @@
 ---
-title: Selmas vällingpankakor
+title: Selmas vällingpannkakor
 updated: 2022-01-16T13:03:39
 created: 2022-01-16T12:50:10
 ---
 
-# Selmas vällingpankakor
+# Selmas vällingpanmkakor
 Ca 24 st
 
 ## Ingredienser
