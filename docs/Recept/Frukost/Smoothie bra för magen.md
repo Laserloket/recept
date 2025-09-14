@@ -6,7 +6,7 @@ created: 2023-12-28T17:57:01
 
 # Smoothie bra för magen
 
-# Ingredienser
+## Ingredienser
 - 1 dl havremjölk
 - 1 dl kefir
 - 1 st banan
