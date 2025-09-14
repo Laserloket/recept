@@ -19,4 +19,3 @@ Ca 24 st
 ## Hur man gör
 1. Blanda.
 2. Stek på låg värme i plättstekpanna.
-

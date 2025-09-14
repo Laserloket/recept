@@ -7,7 +7,7 @@ created: 2023-03-04T08:34:59
 # Brioche
 2 st bröd
 
-# Ingredienser
+## Ingredienser
 - 25 g jäst / 6 g torrjäst
 - 75 g vatten
 - 575 g brödmjöl

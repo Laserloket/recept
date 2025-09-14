@@ -9,12 +9,15 @@
   <meta name="description" content="Recept">
   <title>Recept</title>
 
-   <!-- Theme: Defaults -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-defaults.css">
+  <!-- Theme: Simple -->
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"> -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/themes/vue.css" data-style-group="themeable">
+
   <!-- Custom Styles -->
   <style>
     :root {
-      /* --theme-hue: 0; */
+      --base-font-size: 12px;
+      --theme-color   : rgb(121, 28, 28);
     }
   </style>
 </head>
@@ -26,7 +29,7 @@
     window.$docsify = {
       name: 'Recept',
       repo: '',
-      loadNavbar: true,
+      loadNavbar: false,
       loadSidebar: true,
       subMaxLevel: 3,
     };
@@ -55,12 +58,12 @@
               // Create tip element
               const tipDiv = document.createElement('div');
               tipDiv.innerHTML = `
-                <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dagens tips:</strong>
+                Dagens tips:
                 <a href="${targetPath}">${tipName}</a>
               `;
               tipDiv.style.padding = '10px';
               tipDiv.style.background = '#f9f9f9';
-              tipDiv.style.border = '1px solid #ddd';
+              tipDiv.style.border = '0';
               tipDiv.style.margin = '10px 0';
 
               // Insert at the top of the main content
