@@ -12,10 +12,8 @@ För att bygga och/eller uppdatera projektet lokalt så krävs följande:
 - docsify tools (`npm i docsify-tools -g`)
 
 ### Uppdatera
-Kör `docsify serve <lokal sökväg till projektet>/docs` för att starta en webbserver på `http://localhost:3000`.
-
-Gör en ändring i filstrukturen och/eller markdown filerna under mappen Recept.
-
-Kör sedan `docsify-auto-sidebar -d <lokal sökväg till projektet>/docs` för att generera sidebar strukturen.
-
-Öppna `http://localhost:3000` för att se ändringarna live.
+1. Kör `docsify serve <lokal sökväg till projektet>/docs` för att starta en webbserver på `http://localhost:3000`.
+2. Gör en ändring i filstrukturen och/eller markdown filerna under mappen Recept.
+3. Kör `docsify-auto-sidebar -d <lokal sökväg till projektet>/docs` för att bygga om sidebar strukturen.
+4. Kör . build_tips.sh för att bygga om "Dagens tips" länkarna.
+5. Öppna `http://localhost:3000` för att se ändringarna live.

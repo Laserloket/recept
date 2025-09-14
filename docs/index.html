@@ -30,6 +30,45 @@
       loadSidebar: true,
       subMaxLevel: 3,
     };
+    // Tip of the day plugin
+    (function () {
+      // Fetch the tip_paths.txt file and select a random entry
+      fetch('tip_paths.txt')
+        .then(response => response.text())
+        .then(text => {
+          const paths = text.split('\n').filter(Boolean);
+          if (paths.length === 0) return;
+
+          // Select a random target path
+          const targetPath = paths[Math.floor(Math.random() * paths.length)];
+
+          // Fetch the markdown content for the target page
+          const filePath = targetPath.replace(/^#\//, '') + '.md';
+
+          fetch(filePath)
+            .then(response => response.text())
+            .then(md => {
+              // Extract the first header (e.g., "# Pizzabröd")
+              const match = md.match(/^#\s+(.*)/m);
+              const tipName = match ? match[1] : 'Unknown Tip';
+
+              // Create tip element
+              const tipDiv = document.createElement('div');
+              tipDiv.innerHTML = `
+                <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dagens tips:</strong>
+                <a href="${targetPath}">${tipName}</a>
+              `;
+              tipDiv.style.padding = '10px';
+              tipDiv.style.background = '#f9f9f9';
+              tipDiv.style.border = '1px solid #ddd';
+              tipDiv.style.margin = '10px 0';
+
+              // Insert at the top of the main content
+              const main = document.querySelector('.content');
+              if (main) main.prepend(tipDiv);
+            });
+        });
+    })();
   </script>
 
   <!-- Required -->
