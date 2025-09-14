@@ -1,10 +1,10 @@
 ---
-title: Massaman curry
+title: Massaman
 updated: 2025-09-14T10:00:00
 created: 2022-01-16T12:21:21
 ---
 
-# Massaman curry
+# Massaman
 6 portioner
 
 
@@ -29,7 +29,7 @@ created: 2022-01-16T12:21:21
 3. Under tiden, skär köttet i lagom stora grytbitar, fräs på i en stor gryta.
 4. Ta ut köttet ur grytan.
 5. Koka ner/reducera currypasta med 1 burk kokosmjölk och olja i grytan. När den är färdig så ska det se ut som att den har skurit sig.
-6. Lägg tillbaka köttet och häv i resterande ingredienser (ej de grillade grönsakerna nötterna).
+6. Lägg tillbaka köttet och häv i resterande ingredienser (ej de grillade grönsakerna och nötterna).
 7. Koka under tryck i 20 min / utan tryck i 40 min.
 8. Släpp trycket, tillsätt grönsakerna och nötterna.
 
