@@ -13,20 +13,21 @@ created: 2022-12-20T07:35:38
 - 3 g torrjäst
 
 ### Deg
-230 g julmust (rumstemperatur)
-7 g torrjäst  
-1 dl vört (alt. reducera (sjud) ner 4 dl porter och 1 dl julmust tills totalt 1 dl återstår)
-2 msk honung  
-1 dl mörk brödsirap  
-150 g grovt rågmjöl
-150 g vetemjöl special
-14 g salt  
-1,5 tsk mald pomerans  
-1 tsk mald ingefära  
-1 tsk mald kardemumma  
-2 krm mald kryddnejlika
+- 230 g julmust (rumstemperatur)
+- 7 g torrjäst  
+- 1 dl vört (alt. reducera (sjud) ner 4 dl porter och 1 dl julmust tills totalt 1 dl återstår)
+- 2 msk honung  
+- 1 dl mörk brödsirap  
+- 150 g rågsikt
+- 150 g vetemjöl special
+- 14 g salt  
+- 1,5 tsk mald pomerans  
+- 1 tsk mald ingefära  
+- 1 tsk mald kardemumma  
+- 2 krm mald kryddnejlika
 
 Ca 1 dl vetemjöl (till utbakning)
+
 Mjölk och grädde till pensling
 
 ## Hur man gör  

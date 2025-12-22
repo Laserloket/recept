@@ -173,6 +173,7 @@
       - [Ricotta_med_örtolja](/Recept/Tillbehör/Ricotta_med_örtolja.md)
       - [Wookad_pak_choy](/Recept/Tillbehör/Wookad_pak_choy.md)
     - Vegetariskt
+      - [Falafel](/Recept/Vegetariskt/Falafel.md)
       - [Halloumi_med_vitost](/Recept/Vegetariskt/Halloumi_med_vitost.md)
       - [Halloumibiffar](/Recept/Vegetariskt/Halloumibiffar.md)
       - [Linsgryta_med_myntayoghurt](/Recept/Vegetariskt/Linsgryta_med_myntayoghurt.md)

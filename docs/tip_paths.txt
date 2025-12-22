@@ -127,6 +127,7 @@
 #/Recept/Vegetariskt/Omelette_i_ugn
 #/Recept/Vegetariskt/Halloumi_med_vitost
 #/Recept/Vegetariskt/Linsgryta_med_myntayoghurt
+#/Recept/Vegetariskt/Falafel
 #/Recept/Vegetariskt/Mini_paj_ruccola
 #/Recept/Röror/Svamp_salladslök
 #/Recept/Röror/Skinka_senap
