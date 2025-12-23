@@ -1,6 +1,6 @@
 ---
 title: Köttbullar
-updated: 2024-12-16T08:23:27
+updated: 2025-12-23T12:17:00
 created: 2022-01-16T12:31:35
 ---
 
