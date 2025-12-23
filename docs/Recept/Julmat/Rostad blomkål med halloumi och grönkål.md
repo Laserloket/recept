@@ -4,7 +4,7 @@ updated: 2024-12-24T15:27:28
 created: 2024-12-15T17:39:11
 ---
 
-# Rostad blomkål halloumi och grönkål
+# Rostad blomkål med halloumi och grönkål
 6 portioner
 
 ## Ingredienser
